@@ -30,3 +30,6 @@ elif x=="2":
 elif x=='3':
    print time.ctime()
 
+elif x=='4':
+   webbrowser.open_new_tab('http://www.google.com')
+
