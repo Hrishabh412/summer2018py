@@ -33,3 +33,7 @@ elif x=='3':
 elif x=='4':
    webbrowser.open_new_tab('http://www.google.com')
 
+elif x=='5':
+   a=raw_input("Enter any statement    ")
+   webbrowser.open_new_tab('https://who.is/whois/%s' %a)
+
