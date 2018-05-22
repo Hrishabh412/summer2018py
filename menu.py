@@ -2,6 +2,10 @@
 
 import time
 import webbrowser
+import socket
+import requests
+from bs4 import BeautifulSoup
+import os
 
 print"press 1 for for string search"
 print"press 2 for for image search"
